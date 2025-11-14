@@ -2,3 +2,16 @@
 .vscode/
 .idea/
 .DS_Store
+
+# Dependencies
+node_modules/
+__pycache__/
+
+# Environment
+.env
+.venv
+.env.local
+
+# Build outputs
+dist/
+build/
